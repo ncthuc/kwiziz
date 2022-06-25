@@ -1,8 +1,8 @@
 [run]
-source = project_name
+source = kwiziz
 
 [report]
 omit =
     */python?.?/*
     */site-packages/nose/*
-    project_name/__main__.py
+    kwiziz/__main__.py
